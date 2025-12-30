@@ -82,7 +82,3 @@
 </br></br>
     
 ## 📊 My Contributions
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/0047AB/JuandiDev" alt="JuandiDev's Github Chart" width="100%" />
-</p>
