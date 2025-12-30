@@ -84,5 +84,5 @@
 ## 📊 My Contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=JuandiDev&theme=tokyonight&bg_color=000000&color=0047AB&line=0047AB&point=FFFFFF&hide_border=true" alt="JuandiDev's Contribution Graph" width="100%" />
+  <img src="https://ghchart.rshah.org/0047AB/JuandiDev" alt="JuandiDev's Github Chart" width="100%" />
 </p>
